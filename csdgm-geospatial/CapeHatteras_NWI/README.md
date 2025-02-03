@@ -27,7 +27,7 @@ Initial mdEditor-JSON export of the source XML. The file was imported into the m
 
 The *CapeHatteras_NWI_mdEditor-initial.json* file edited to resolve errors and link the data dictionary to metadata record. Exported (Export All) as mdEditor-JSON.
   
-### CapeHatteras_simplified_mdeditor.json
+### CapeHatteras_simplified_mdEditor.json
 
 Simplified version of "CapeHatteras_NWI_mdJson-valid.json". The source file was simplified to contain a single metadata record, three contacts, and two data dictionaries. Additional changes include:
 
